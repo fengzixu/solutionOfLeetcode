@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/xuran/workspace/solutionOfLeetcode/array/array2.h
+iostream
+-
+vector
+-
+
+/Users/xuran/workspace/solutionOfLeetcode/main.cpp
+array/array2.h
+/Users/xuran/workspace/solutionOfLeetcode/array/array2.h
+
